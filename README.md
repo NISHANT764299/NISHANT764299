@@ -7,24 +7,24 @@ ________________________________________________________________________________
 
 
 🌟 About Me:
-
-🔭 Current Projects:
     
-  * FactCheckr: Real or Fake using Python  BERT Transfoemer MOdel
-  * Fruits and Vegetables Freshness Detection Using CNN
+   * 🔭 Current Projects:
+        
+      * FactCheckr: Real or Fake using Python  BERT Transfoemer MOdel
+      * Fruits and Vegetables Freshness Detection Using CNN
+        
+   * 🌱 Skills & Interests:
     
-🌱 Skills & Interests:
-
-  * Programming Languages: Python, SQL
-  * Technologies: Machine Learning, Deep Learning, Scikit-Learn, TensorFlow, PyTorch
-  * NLP: NLTK, Spacy, Transformers
-  * Tools & Platforms: VScode , GitHub, Power BI
+      * Programming Languages: Python, SQL
+      * Technologies: Machine Learning, Deep Learning, Scikit-Learn, TensorFlow, PyTorch
+      * NLP: NLTK, Spacy, Transformers
+      * Tools & Platforms: VScode , GitHub, Power BI
+        
+   * 🎯 Certifications:
     
-🎯 Certifications:
-
-  * Machine Learning and Deep Learning with Python From TechSimPlus Learning
+      * Machine Learning and Deep Learning with Python From TechSimPlus Learning
+        
+   * 📫 How to Reach Me:
     
-📫 How to Reach Me:
-
-  * Email: (nishantchourasiya58@gmail.com)
-  * LinkedIn: (https://www.linkedin.com/in/nishant-chourasiya-2924a829b/)
+      * Email: (nishantchourasiya58@gmail.com)
+      * LinkedIn: (https://www.linkedin.com/in/nishant-chourasiya-2924a829b/)
