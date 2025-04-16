@@ -7,6 +7,7 @@ ________________________________________________________________________________
 
 
 🌟 About Me:
+
 🔭 Current Projects:
     
   * FactCheckr: Real or Fake using Python  BERT Transfoemer MOdel
