@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi there, I'm Nishant Chourasiya 👋
 
-<!--
-**NISHANT764299/NISHANT764299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Welcome to my GitHub profile! I'm an enthusiastic Machine Learning Engineer and Data Analyst with a passion for creating innovative solutions. I am pursuing MCA in Artificial Intelligence and Machine Learning from LNCT University, Bhopal. Currently,
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
